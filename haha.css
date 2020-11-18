@@ -1,3 +1,8 @@
-h1 {
+head h1 {
+    background-color: darkgray;
     color: brown;
 }
+p {
+    color: red;
+    text-align: center;
+  }
